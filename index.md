@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/luisacppaiva/josevictor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luisacppaiva/josevictor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No final do ano de 2020, eu estava, como grande parte do mundo naquele momento, tendo *aulas online*. Minhas aulas de projeto agora eram realizadas pelo Zoom e eu assistia às aulas escutando o martelar da construção ao lado da minha casa. 
+Essa construção virou parte da minha rotina durante a quarentena, principalmente nos momentos em que eu estava em aula, o ruído da maqueta, dos caminhões estacionando na frente de casa e a conversa dos pedreiros eram o barulho de fundo para todas minhas aulas. 
+Por curiosidade (e, muitas vezes, desgosto pelas minhas janelas que viviam sujas com a poeira de obra), eu sempre observava a obra da janela da minha sala de estar, acompanhei do momento em que eles fizeram as formas para concretar as estruturas até a alvenaria começar a ser feita para, depois, quebrarem os tijolos novamente para passar os fios e encanamento. 
+Ao mesmo tempo, em que minhas janelas me revelavam esse modo de fazer arquitetura com divisão intensa do trabalho, com paredes sendo construídas para depois serem destruídas e com um engenheiro que parecia às vezes para dar ordens, a janela da minha chamada do Zoom me mostrava (talvez) outra maneira de se pensar na arquitetura. 
+Essa janela era para outra cidade, uma cidadezinha comparada com o tamanho de Belo Horizonte, chamada São Gonçalo do Bação, com um construtor tão envolvido com seu trabalho que experimentava fazer tijolos personalizados com citações religiosas e até mesmo tentou voar em uma bicicleta. E é um pouco da história desse inventor/polímata/construtor que eu vou tentar contar. 
+Vamos? ![josé vitor](https://user-images.githubusercontent.com/80409959/132848770-f0b5e9f8-c043-4fa2-91c6-b9e7f0dbf026.png)
